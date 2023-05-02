@@ -3954,5 +3954,6 @@ input, select, textarea {
 
 .icons-top {
 	border-left: solid 2px rgba(106, 106, 109, 0.736);
-	padding-left: 2em;
+	padding-left: 1em;
+	margin-left: 1em;
 }		

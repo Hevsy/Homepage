@@ -1,5 +1,5 @@
 default-src 'none'; 
-img-src 'self' *.parinov.link parinov.link http://www.w3.org data:; 
+img-src 'self' *.parinov.link parinov.link http://www.w3.org https://images.credly.com data:; 
 script-src 'self' *.parinov.link parinov.link; 
 style-src 'self' https://fonts.googleapis.com *.parinov.link parinov.link; 
 object-src *.parinov.link parinov.link;
